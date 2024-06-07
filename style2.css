@@ -123,7 +123,9 @@ body{
     color:aqua;
     box-sizing: border-box;
     
+    
 }
 .message{
     margin: -50px ;
+    text-shadow: none;
 }
